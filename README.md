@@ -10,7 +10,7 @@
   [Usage](#usage)
 
   ## Installation
-  From your terminal you will need to run the command npm i to install the packages locally. From there you will need to follow the vidoes showing how the program is run
+  From your terminal you will need to run the command npm i to install the packages locally. You will also need to create a unique .env file in the main directory, allowing the database to connect to your local host. In your .env file you will need to define DB_NAME, DB_USER, and DB_PASSWORD. From there you will need to follow the vidoes showing how the program is run.
 
   ## Usage
   The following videos display functionalty of the program
